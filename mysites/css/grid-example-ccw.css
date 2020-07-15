@@ -23,7 +23,7 @@
 				color: #ffffff;}
 			.header {
                                  
-				background-image: url("images/bg-header.jpg"); 
+				background-image: url("bg-header.jpg"); 
 				padding: 0px 0px 0px 0px;
 				height: 100px;
 				position: fixed;
@@ -38,7 +38,7 @@
 			.wrapper {
 				width: 960px;
 				margin: 0px auto;
-				background-image: url("images/ccw-hd.jpg");
+				background-image: url("ccw-hd.jpg");
 				background-repeat: no-repeat;
 				background-position: 0px 0px;
 				text-align: left;}
